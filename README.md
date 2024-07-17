@@ -15,3 +15,4 @@ repository dedicated to documenting my 100 days of progress with coding.
 | day 7 | july 14, 2024 | created my first pull request on github, while working on first-hack website | https://github.com/users/Incharajayaram/achievements/pull-shark |
 |   |    |   | https://github.com/Incharajayaram/First-Hack | 
 | day 8 | july 15, 2024 | fixed errors in svelte project | [tsoc](https://github.com/Incharajayaram/sveltekit-fullstack-demo)|
+| day 9 | july 16, 2024 | added login and payment page | [tsoc](https://github.com/Incharajayaram/sveltekit-fullstack-demo) |
