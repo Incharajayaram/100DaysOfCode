@@ -19,3 +19,5 @@ repository dedicated to documenting my 100 days of progress with coding.
 | day 10 | july 18, 2024 | covered deep learning basics | [3blue1brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=tGilEgEJhgc6Qewz) |
 | day 11 | july 19, 2024 | deployed a crud application made using svelte framework for frontend and integrated a smart contract written in typescript | [fullstack application](https://sveltekit-fullstack-demo-theta.vercel.app/) |
 | | | pandas documentation | [learning_ml github](https://github.com/Incharajayaram/learning_ml/blob/main/learning_pandas.ipynb) |
+| day 12 | july 20, 2024 | worked on a to-do list app in nest js | |
+| | | completed learning pandas through documentation | [learning_ml github](https://github.com/Incharajayaram/learning_ml/blob/main/learning_pandas.ipynb) |
