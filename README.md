@@ -21,3 +21,5 @@ repository dedicated to documenting my 100 days of progress with coding.
 | | | pandas documentation | [learning_ml github](https://github.com/Incharajayaram/learning_ml/blob/main/learning_pandas.ipynb) |
 | day 12 | july 20, 2024 | worked on a to-do list app in nest js | |
 | | | completed learning pandas through documentation | [learning_ml github](https://github.com/Incharajayaram/learning_ml/blob/main/learning_pandas.ipynb) |
+| day 13 | july 21, 2024 | went through basics of building a machine learning model from a book | [pdf](https://github.com/ageron/handson-ml3/blob/main/01_the_machine_learning_landscape.ipynb) |
+| day 14 | july 22, 2024 | worked on the nest.js app | |
