@@ -23,3 +23,4 @@ repository dedicated to documenting my 100 days of progress with coding.
 | | | completed learning pandas through documentation | [learning_ml github](https://github.com/Incharajayaram/learning_ml/blob/main/learning_pandas.ipynb) |
 | day 13 | july 21, 2024 | went through basics of building a machine learning model from a book | [pdf](https://github.com/ageron/handson-ml3/blob/main/01_the_machine_learning_landscape.ipynb) |
 | day 14 | july 22, 2024 | worked on the nest.js app | |
+| day 15 | july 23, 2024 | learnt about batch learning and online learning machine learning methods and implemented it in my stock prediction model | [stock prediction project](https://github.com/Incharajayaram/stock_price_prediction_project) |
