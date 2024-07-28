@@ -25,3 +25,4 @@ repository dedicated to documenting my 100 days of progress with coding.
 | day 14 | july 22, 2024 | worked on the nest.js app | |
 | day 15 | july 23, 2024 | learnt about batch learning and online learning machine learning methods and implemented it in my stock prediction model | [stock prediction project](https://github.com/Incharajayaram/stock_price_prediction_project) |
 | day 16 | july 24, 2024 | built the frontend of the nest js app | |
+| day 17 | july 27, 2024 | completed linear and logistic regression theory in ml | [ml course](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera) |
